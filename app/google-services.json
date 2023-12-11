@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637169860659",
+    "project_id": "lesson-5bdfa",
+    "storage_bucket": "lesson-5bdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637169860659:android:449215a99c35a9083e2346",
+        "android_client_info": {
+          "package_name": "uz.ictschool.lesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgkkiw3RKL7Mq8pjBkpgyY0yj2amq90Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
